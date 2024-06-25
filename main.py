@@ -1,4 +1,4 @@
-def print_hi() -> str:
+def print_hi():
     print("Hello world!")
 
 
